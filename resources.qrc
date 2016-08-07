@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ApplicationRoot.qml</file>
+        <file>BrowserDialog.qml</file>
+        <file>BrowserWindow.qml</file>
+        <file>DownloadView.qml</file>
+        <file>TabViewClosable.qml</file>
+        <file>icons/close.svg</file>
+        <file>icons/go-next.png</file>
+        <file>icons/go-previous.png</file>
+        <file>icons/process-stop.png</file>
+        <file>icons/tab.png</file>
+        <file>icons/tab_selected.png</file>
+        <file>icons/view-refresh.png</file>
+    </qresource>
+</RCC>
